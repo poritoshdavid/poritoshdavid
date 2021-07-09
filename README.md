@@ -2,7 +2,7 @@
 - 👀 interested in build or create android , iOS and Web base application.
 - ✅ Already know html, css, bootstrap, javascript, jQuery, php, android, swift, flutter.
 - 🌱 currently learning new type of funtionality code.
-- 💞️ looking to collaborate on a project with android, iOS, and Web based applications.
+- 💞️ looking to collaborate on a project with android, iOS, and Web-based applications.
 - 📫 you can find me with https://www.fiverr.com/inbox/poritoshdavid, or https://www.linkedin.com/in/poritosh-david-68506a1a9/, also gmail : poritoshsrroy@gmail.com.
 
 <!---
