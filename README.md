@@ -2,7 +2,7 @@
 - 👀 interested in build or create android , iOS and Web base application.
 - ✅ Already know html, css, bootstrap, javascript, jQuery, php, android, swift, flutter.
 - 🌱 currently learning new type of funtionality code.
-- 💞️ looking to collaborate on ...
+- 💞️ looking to collaborate on a project with android, iOS, and Web based applications.
 - 📫 How to reach me ...
 
 <!---
